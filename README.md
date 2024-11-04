@@ -12,7 +12,9 @@ I'm Ramya! Welcome to my GitHub profile.
 💬 Ask me about: Automation testing, data analysis, Selenium, Python, and anything related to web scraping!
 
 📫 How to reach me: Email | LinkedIn | GitHub
+
 😄 Pronouns: She/Her
+
 ⚡ Fun fact: I’m an ISTQB certified tester and a certified AI enthusiast through the Microsoft AI-900 certification.
 
 ---
