@@ -25,8 +25,8 @@ I'm Ramya! Welcome to my GitHub profile.
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com)
 
 ## 💻 **Tech Stack**:
-![Python](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Python)
-![Selenium](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=Selenium)
+## ![Python](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Python)
+## ![Selenium](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=Selenium)
 ![Java](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Java)
 ![Django](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Django)
 ![MySQL](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=MySQL)
