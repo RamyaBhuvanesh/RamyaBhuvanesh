@@ -17,3 +17,9 @@ I'm Ramya! Welcome to my GitHub profile.
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I’m an ISTQB certified tester and a certified AI enthusiast through the Microsoft AI-900 certification.
+
+🌐 Socials:
+
+[LinkedIn](https://www.linkedin.com/in/yourprofile)
+[Stack Overflow](https://stackoverflow.com/users/yourprofile)
+[Twitter](https://twitter.com/yourprofile)
