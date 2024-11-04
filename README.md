@@ -20,9 +20,7 @@ I'm Ramya! Welcome to my GitHub profile.
 
 ## 🌐 **Socials:**
 
-<div style="border: 2px solid #F7DF1E; border-radius: 5px; padding: 10px; display: inline-block; background: linear-gradient(145deg, #ffffff, #e6e6e6); box-shadow: 5px 5px 10px #d1d1d1, -5px -5px 10px #ffffff;">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript" />
-</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com)
