@@ -25,7 +25,12 @@ I'm Ramya! Welcome to my GitHub profile.
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com)
 
 ## 💻 **Tech Stack**:
-!<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript" width="150" height="40" />
+
+!<div style="border: 2px solid #F7DF1E; border-radius: 5px; padding: 10px; display: inline-block; background: linear-gradient(145deg, #ffffff, #e6e6e6); box-shadow: 5px 5px 10px #d1d1d1, -5px -5px 10px #ffffff;">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5" alt="HTML" />
+</div>
 ![Python](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Python)
 ![Selenium](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=Selenium)
 ![Java](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Java)
