@@ -18,7 +18,7 @@ I'm Ramya! Welcome to my GitHub profile.
 
 ⚡ Fun fact: I’m an ISTQB certified tester and a certified AI enthusiast through the Microsoft AI-900 certification.
 
-🌐 Socials:
+## 🌐 **Socials:**
 
 [LinkedIn](https://www.linkedin.com/in/yourprofile)
 [Stack Overflow](https://stackoverflow.com/users/yourprofile)
